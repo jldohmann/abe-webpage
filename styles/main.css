@@ -181,6 +181,12 @@ li {
   html {
     font-size: 80%;
   }
+  #welcome-section {
+      background-size: contain;
+  }
+  #welcome-section h1, p {
+      padding-top: 0.5em;
+  }
 }
 
 /* 980px / 16px = 61.25em */
